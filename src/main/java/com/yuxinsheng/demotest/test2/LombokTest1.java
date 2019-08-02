@@ -28,7 +28,6 @@ public class LombokTest1 {
 
     public static void main(String[] args) {
         LombokTest1 test1 = new LombokTest1(1L, "小明", 18);
-        log.info(test1.toString());
     }
 
 }

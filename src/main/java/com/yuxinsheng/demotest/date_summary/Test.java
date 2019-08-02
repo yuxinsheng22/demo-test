@@ -56,7 +56,7 @@ public class Test {
         points.sort(Comparator.comparing(Point::getDate));
 
         for (Point p : points) {
-            log.info(p.toString());
+
         }
     }
 
