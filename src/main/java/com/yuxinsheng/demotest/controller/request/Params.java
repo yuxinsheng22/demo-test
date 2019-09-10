@@ -1,6 +1,6 @@
 package com.yuxinsheng.demotest.controller.request;
 
-import com.yuxinsheng.demotest.test1.DateType;
+import com.yuxinsheng.demotest.test.test1.DateType;
 
 /**
  * @author yuxinsheng

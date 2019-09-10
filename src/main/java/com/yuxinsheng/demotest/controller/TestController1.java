@@ -4,7 +4,7 @@ import com.google.common.collect.Lists;
 import com.yuxinsheng.demotest.common.ReplyResult;
 import com.yuxinsheng.demotest.controller.request.Params;
 import com.yuxinsheng.demotest.domain.Student;
-import com.yuxinsheng.demotest.test1.DateType;
+import com.yuxinsheng.demotest.test.test1.DateType;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;

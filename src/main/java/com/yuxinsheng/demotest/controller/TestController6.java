@@ -1,6 +1,6 @@
 package com.yuxinsheng.demotest.controller;
 
-import com.yuxinsheng.demotest.test3.TestDomain;
+import com.yuxinsheng.demotest.test.test3.TestDomain;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

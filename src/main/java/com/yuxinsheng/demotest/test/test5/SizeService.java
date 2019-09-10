@@ -1,0 +1,53 @@
+package com.yuxinsheng.demotest.test.test5;
+
+public class SizeService {
+    public static void main(String[] args) {
+        Integer [] ids = {
+                47,
+                48,
+                49,
+                50,
+                51,
+                11,
+                53,
+                61,
+                1,
+                2,
+                7,
+                65,
+                16,
+                14,
+                37,
+                41,
+                33,
+                52,
+                44,
+                46,
+                9,
+                6,
+                13,
+                39,
+                42,
+                43,
+                38,
+                5,
+                59,
+                60,
+                54,
+                12,
+                4,
+                64,
+                15,
+                34,
+                36,
+                45,
+                3,
+                63,
+                8,
+                40,
+                35,
+                10,
+                62
+        };
+    }
+}
