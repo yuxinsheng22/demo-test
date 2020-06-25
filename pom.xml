@@ -79,11 +79,11 @@
             <artifactId>clover</artifactId>
             <version>4.0.3</version>
         </dependency>
-        <dependency>
-            <groupId>com.madhouse.performad.ads.sdk</groupId>
-            <artifactId>twitter</artifactId>
-            <version>4.0-SNAPSHOT</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>com.madhouse.performad.ads.sdk</groupId>-->
+<!--            <artifactId>twitter</artifactId>-->
+<!--            <version>4.0-SNAPSHOT</version>-->
+<!--        </dependency>-->
         <dependency>
             <groupId>com.facebook.business.sdk</groupId>
             <artifactId>facebook-java-business-sdk</artifactId>
